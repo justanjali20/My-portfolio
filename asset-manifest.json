@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/justanjali20/My-portfolio/static/css/main.06db051d.css",
+    "main.js": "/justanjali20/My-portfolio/static/js/main.5b38ca9f.js",
+    "index.html": "/justanjali20/My-portfolio/index.html",
+    "main.06db051d.css.map": "/justanjali20/My-portfolio/static/css/main.06db051d.css.map",
+    "main.5b38ca9f.js.map": "/justanjali20/My-portfolio/static/js/main.5b38ca9f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.06db051d.css",
+    "static/js/main.5b38ca9f.js"
+  ]
+}
