@@ -37,7 +37,7 @@ function Navbar() {
       <div>
       <img  id="logo" src="./img/logo.jpg" alt="portfolio" />
       </div>
-      <a 
+      <Link
         href="#"
         className={`nav__hamburger ${navActive ? "active" : ""}`}
         onClick={toggleNav}
@@ -47,7 +47,7 @@ function Navbar() {
         <span className="nav__hamburger__line"></span>
         <span className="nav__hamburger__line"></span>
         <span className="nav__hamburger__line"></span>
-      </a>
+        </Link> 
       <div className={`navbar--items ${navActive ? "active" : ""}`}>
         <ul>
           <li>
